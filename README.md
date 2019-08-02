@@ -4,11 +4,11 @@
 
 ## INTRODUCTION
 
-In this project, I have built a React web application called Jammming. Using React with the Spotify API here is a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
+In this project, I have built a React web application called Neil's Jam. Using React with the Spotify API here is a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
 
 ## Usage
 
-run 
+git clone
 npm install && npm start
 
 ## Licence 
