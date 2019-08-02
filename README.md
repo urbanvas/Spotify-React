@@ -8,8 +8,8 @@ In this project, I have built a React web application called Neil's Jam. Using R
 
 ## Usage
 
-git clone
-npm install && npm start
+> git clone
+> npm install && npm start
 
 ## Licence 
 
