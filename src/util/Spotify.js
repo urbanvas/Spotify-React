@@ -1,5 +1,5 @@
-const clientId = 'a36f958e9ee24ff2b6dd3d826ed156d5';
-const redirect_uri = 'http://localhost:3000/';
+const clientId = 'e25a9251ce694a4b94e7eb7112976a26';
+const redirect_uri = 'http://neilsReactPlaylist.surge.sh/';
 let accessToken;
 
 const Spotify = {
