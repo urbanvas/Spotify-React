@@ -1,6 +1,6 @@
 ## SEE IT LIVE
 
-[a link](http://neilsreactplaylist.surge.sh/)
+[Click Me](http://neilsreactplaylist.surge.sh/)
 
 ## INTRODUCTION
 
