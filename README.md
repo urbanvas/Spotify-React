@@ -5,7 +5,7 @@ In this project, I have built a React web application called Neil's Jam. Using R
 
 ## SEE IT LIVE :blush:
 
-[Click Me](http://neilsreactplaylist.surge.sh/)
+[Live version here, Click Me.](http://neilsreactplaylist.surge.sh/)
 ![Homepage](app.png)
 
 ## Usage
