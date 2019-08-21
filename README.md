@@ -1,6 +1,6 @@
 ## SEE IT LIVE :blush:
 
-[Click Me](http://neilsreactplaylist.surge.sh/)
+<p align="center">[Click Me](http://neilsreactplaylist.surge.sh/)</p>
 ![Homepage](app.png)
 
 ## INTRODUCTION
