@@ -1,11 +1,12 @@
+## INTRODUCTION
+
+In this project, I have built a React web application called Neil's Jam. Using React with the Spotify API here is a webapp that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
+
+
 ## SEE IT LIVE :blush:
 
 [Click Me](http://neilsreactplaylist.surge.sh/)
 ![Homepage](app.png)
-
-## INTRODUCTION
-
-In this project, I have built a React web application called Neil's Jam. Using React with the Spotify API here is a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
 
 ## Usage
 
