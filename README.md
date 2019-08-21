@@ -14,6 +14,17 @@ In this project, I have built a React web application called Neil's Jam. Using R
 
 `npm install && npm start`
 
+# Authors
+* **Neil V.** - *Initial work* - [Github](https://github.com/urbanvas)
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/urbanvas/Spotify-React. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## Code of Conduct
+
+Everyone interacting in the Crypto project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the code of conduct.
+
 ## Licence 
 
 MIT licence
