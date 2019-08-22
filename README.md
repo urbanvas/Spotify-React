@@ -23,7 +23,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/urbanv
 
 ## Code of Conduct
 
-Everyone interacting in the Crypto project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the code of conduct.
+Everyone interacting in the SpotifyReact project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the code of conduct.
 
 ## Licence 
 
