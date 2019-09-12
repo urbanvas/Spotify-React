@@ -8,6 +8,11 @@ In this project, I have built a React web application called Neil's Jam. Using R
 [Live version here, Click Me.](http://neilsreactplaylist.surge.sh/)
 ![Homepage](app.png)
 
+## Blog
+
+Link to Article:
+[Medium](https://medium.com/@neilvseejoor/going-to-class-an-introduction-to-javascript-classes-781bdc2f0bf7)
+
 ## Usage
 
 `git clone`
