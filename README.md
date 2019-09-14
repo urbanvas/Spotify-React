@@ -4,7 +4,7 @@ In this project, I have built a React web application called Neil's Jam. Using R
 
 ## DEMO
 
-[Youtube](https://youtu.be/Kl5_X3TRpXo)
+[YouTube](https://youtu.be/Kl5_X3TRpXo)
 
 ## SEE IT LIVE :blush:
 
