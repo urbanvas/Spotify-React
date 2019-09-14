@@ -6,6 +6,10 @@ In this project, I have built a React web application called Neil's Jam. Using R
 
 [YouTube](https://youtu.be/Kl5_X3TRpXo)
 
+# Links
+
+[LinkedIn](https://www.linkedin.com/in/neilvseejoor/)
+
 ## SEE IT LIVE :blush:
 
 [Live version here, Click Me.](http://neilsreactplaylist.surge.sh/)
